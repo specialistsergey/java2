@@ -1,0 +1,4 @@
+ПО для курса:
+JDK: https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
+
+Apache NetBeans (IDE): https://netbeans.apache.org/download/nb120/nb120.html
